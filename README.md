@@ -1,2 +1,2 @@
-# Hyperblog
-Prueba estudiante de Platzi Git y Github
+# Hyperblog 🚀
+Prueba estudiante de Platzi Git y Github.
